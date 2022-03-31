@@ -1,8 +1,8 @@
 # webd
-# Angela Yu Web Development - Advanced JS and DOM Manipulation
-# HTML/CSS/JS & DOM - Drum Kit
-# The Dice Challange
-# Sample Profile
+## Angela Yu Web Development - Advanced JS and DOM Manipulation
+## HTML/CSS/JS & DOM - Drum Kit
+## The Dice Challange
+## Sample Profile
 
 - [About this project](#about)
 - [Features](#features)
@@ -11,7 +11,7 @@
 
 <a name="about"></a>
 ## About
-In this code along I updated the provided starter files using
+In this repo i uploaded the practice projects i learned recently based on web development
 HTML, CSS, and Javascript
 
 <a name="features"></a>

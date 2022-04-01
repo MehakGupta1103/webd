@@ -1,0 +1,1 @@
+{"name":"Local: sample","url":"c:\\Users\\DELL\\webd\\webd\\sample.cpp","tests":[{"id":1648811863106,"input":"3\n5 100 1 30\n7 1000000000 1000000000 1000000000\n4 1 7 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\webd\\webd\\sample.cpp","group":"local","local":true}

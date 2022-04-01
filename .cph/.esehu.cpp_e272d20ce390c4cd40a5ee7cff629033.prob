@@ -1,0 +1,1 @@
+{"name":"Local: esehu","url":"c:\\Users\\DELL\\webd\\webd\\esehu.cpp","tests":[{"id":1648802703876,"input":"9\n5 1\n5 2\n5 3\n5 4\n5 5\n5 6\n5 7\n5 8\n5 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\webd\\webd\\esehu.cpp","group":"local","local":true}
